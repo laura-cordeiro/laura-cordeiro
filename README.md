@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋 Meu nome é Laura, sou desenvolvedora back-end e atualmente moro em Belo Horizonte/MG.</h2>
+<h2 align="left">Olá! Meu nome é Laura, sou desenvolvedora back-end e atualmente moro em Belo Horizonte/MG.</h2>
 
 ###
 
